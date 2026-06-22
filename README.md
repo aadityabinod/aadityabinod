@@ -10,9 +10,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/aadityabinodyadav?style=flat&color=7b2ff7&logo=github)](https://github.com/aadityabinodyadav)
-[![Profile Views](https://komarev.com/ghpvc/?username=aadityabinodyadav&color=00d4ff&style=flat)](https://github.com/aadityabinodyadav)
-
 </div>
 
 ---
@@ -25,15 +22,6 @@
 
 ---
 
-
-## 📊 Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aadityabinodyadav&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityabinodyadav&theme=radical&background=0d1117&hide_border=true&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff" />
-</div>
-
----
 
 ## 🌐 Connect
 
